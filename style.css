@@ -14,7 +14,7 @@ body{
 section{
     width: 150vh;
     height: 100vh;
-    padding: 1rem;
+    padding: 2rem;
     display: flex;
     justify-content: start;
     align-items: start;
