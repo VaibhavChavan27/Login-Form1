@@ -12,17 +12,19 @@ body{
 }
 
 section{
-    width: 150vh;
+    width: 100vh;
     height: 100vh;
     padding: 2rem;
     display: flex;
-    justify-content: start;
-    align-items: start;
-    gap: vw;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 14vw;
 
 }
 section .left{
     width: 50%;
+    height: 100%;
     display: flex;
     position:relative ;
 }
